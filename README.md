@@ -23,7 +23,7 @@ The customer section provides the following options:
 7. Delete any item from cart.
 8. Confirm purchase using PIN verification.
 
-## Technologies an Concepts used 
+## Technologies and Concepts used 
 1. **Language:** C++
 2. **Programming Concepts:**
   1. Classes and Objects.
